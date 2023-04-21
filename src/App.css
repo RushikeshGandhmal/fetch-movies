@@ -1,7 +1,4 @@
 section {
-  display: flex;
-  justify-content: center;
-  align-items: center;
   margin: 1rem auto;
   width: 90%;
   max-width: 40rem;
@@ -11,7 +8,7 @@ section {
   border-radius: 12px;
 }
 
-button {
+section button {
   font: inherit;
   cursor: pointer;
   background: #230052;
